@@ -5,8 +5,7 @@ This application delivers a seamless and interactive music listening experience 
 
 🚀 Live Demo
 🔗 **Live Application:**  
-https://https://music-application-c9350.web.app//
-
+](https://music-application-c9350.web.app)
 ✨ Features
 - 🎧 Play, Pause, Next & Previous Controls
 - 🎼 Playlist Management
